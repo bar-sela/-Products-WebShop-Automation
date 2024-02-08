@@ -1,2 +1,0 @@
-[2024-01-04T22:17:17.675Z] [SEVERE] https://www.saucedemo.com/inventory.html - Access to fetch at 'https://submit.backtrace.io/UNIVERSE/TOKEN/json' from origin 'https://www.saucedemo.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
-[2024-01-04T22:17:17.675Z] [SEVERE] https://submit.backtrace.io/UNIVERSE/TOKEN/json - Failed to load resource: net::ERR_FAILED
