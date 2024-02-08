@@ -1,0 +1,14 @@
+pageObjects\OrderCompleteNotification.class
+utilities\ExcelReader$1.class
+pageObjects\CheckoutPage.class
+utilities\ExcelReader.class
+pageObjects\OverviewOrderPage.class
+utilities\AllureAttachment.class
+pageObjects\ProductPage.class
+utilities\PropertyReader.class
+pageObjects\MenuAndCartPage.class
+pageObjects\LoginPage.class
+pageObjects\BasePage.class
+pageObjects\CartPage.class
+pageObjects\ProductDetails.class
+utilities\Product.class

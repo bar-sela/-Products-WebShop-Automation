@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="utilities.ListenerClass"/>
+    </listeners>
+    <test thread-count="5" name="src/test/java">
+        <parameter name="browser" value="Chrome" />
+        <classes>
+            <class name="TestNglogIn"/>
+            <class name="TestNgAddProductDetails"/>
+            <class name="TestNgRemoveProdDetails"/>
+            <class name="TestNgSort"/>
+            <class name="TestNgMenu"/>
+            <class name="TestNgCheckOutFunctionality"/>
+            <class name="TestNgCheckOutRelability"/>
+            <class name="TestNgExamineReceiptEndToEnd"/>
+            <class name="TestNgAddProducts"/>
+        </classes>
+    </test>
+</suite>
