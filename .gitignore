@@ -1,5 +1,3 @@
-
-
 # Intellij
 .idea/
 *.iml
@@ -8,13 +6,13 @@
 
 # BlueJ files
 *.ctxt
- 
- # Mac
+
+# Mac
 .DS_Store
 
 # VS Code
 .vscode/*
- 
+
 # Maven
 log/
 target/
@@ -30,7 +28,6 @@ target/
 *.tar.gz
 *.rar
 
-
 # Test
 test-output/*
 allure-results/*
@@ -38,7 +35,6 @@ allure-report/*
 video/*
 ScreenShots/*
 .allure
-
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
