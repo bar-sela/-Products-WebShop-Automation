@@ -30,6 +30,7 @@ target/
 *.tar.gz
 *.rar
 
+
 # Test
 test-output/*
 allure-results/*
