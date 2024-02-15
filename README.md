@@ -6,5 +6,6 @@ This repository houses a robust automated testing project developed using Java, 
 
 The project employs the Page Object Model (POM) design pattern to enhance modularity and maintainability within the test suite. This design pattern facilitates better organization of code and improves the scalability of the test suite.
 
-Link to Project Website : https://myfinal-project.netlify.app/
-Link to STD : https://github.com/bar-sela/-Products-WebShop-Automation/blob/master/STD.pdf
+Link to Project Website : https://myfinal-project.netlify.app/.
+
+Link to STD : https://github.com/bar-sela/-Products-WebShop-Automation/blob/master/STD.pdf.
