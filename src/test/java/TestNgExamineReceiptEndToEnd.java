@@ -50,8 +50,4 @@ public class TestNgExamineReceiptEndToEnd extends TestBaseClass {
         };
     }
 
-    @AfterClass
-    public void end() throws InterruptedException {
-        Thread.sleep(1000);
-    }
-}
+  }

@@ -13,8 +13,8 @@ import utilities.PropertyReader;
 @Owner("Nachshon Bar-Sela")
 @Epic("User Authentication")
 @Feature("Login")
-@Listeners(utilities.ListenerClass.class)
 @Severity(SeverityLevel.CRITICAL)
+@Listeners(utilities.ListenerClass.class)
 
 public class TestNglogIn extends TestBaseClass {
 

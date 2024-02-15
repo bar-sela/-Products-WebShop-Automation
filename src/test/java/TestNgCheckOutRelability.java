@@ -1,7 +1,4 @@
-import io.qameta.allure.Epic;
-import io.qameta.allure.Feature;
-import io.qameta.allure.Owner;
-import io.qameta.allure.Story;
+import io.qameta.allure.*;
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Listeners;
@@ -17,6 +14,7 @@ import java.util.List;
 @Owner("Nachshon Bar-Sela")
 @Epic("CheckOut")
 @Feature("User Checkout reliability")
+@Severity(SeverityLevel.CRITICAL)
 @Listeners(utilities.ListenerClass.class)
 
 

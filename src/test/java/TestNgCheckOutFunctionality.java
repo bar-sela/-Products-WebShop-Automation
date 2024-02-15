@@ -11,6 +11,7 @@ import pageObjects.ProductPage;
 @Owner("Nachshon Bar-Sela")
 @Epic("Checkout")
 @Feature("User Checkout Functionality")
+@Severity(SeverityLevel.CRITICAL)
 @Listeners(utilities.ListenerClass.class)
 
 public class TestNgCheckOutFunctionality extends TestBaseClass{
@@ -30,7 +31,6 @@ public class TestNgCheckOutFunctionality extends TestBaseClass{
     }
 
     @Story("No First Name")
-    @Severity(SeverityLevel.CRITICAL)
     @Description("User cannot proceed with checkout without providing a First Name")
     @Test(description = "User cannot proceed with checkout without providing a First Name")
     public void tc01_wrongCheckout(){
@@ -43,7 +43,6 @@ public class TestNgCheckOutFunctionality extends TestBaseClass{
     }
 
     @Story("No Last Name")
-    @Severity(SeverityLevel.CRITICAL)
     @Description("User cannot proceed with checkout without providing a Last Name")
     @Test(description = "User cannot proceed with checkout without providing a Last Name")
     public void tc02_wrongCheckout(){
@@ -57,7 +56,6 @@ public class TestNgCheckOutFunctionality extends TestBaseClass{
     }
 
     @Story("No Zip")
-    @Severity(SeverityLevel.CRITICAL)
     @Description("User cannot proceed with checkout without providing a Zip Code")
     @Test(description ="User cannot proceed with checkout without providing a Zip Code")
     public void tc03_wrongCheckout(){
@@ -72,7 +70,6 @@ public class TestNgCheckOutFunctionality extends TestBaseClass{
     }
 
     @Story("Correct Checkout")
-    @Severity(SeverityLevel.CRITICAL)
     @Description("User successfully completes the checkout process")
     @Test(description = "User successfully completes the checkout process")
     public void tc04_correctCheckout(){

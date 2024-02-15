@@ -9,6 +9,7 @@
     @Owner("Nachshon Bar-Sela")
     @Epic("Shopping Cart")
     @Feature("Add To Cart Through Product Window")
+    @Severity(SeverityLevel.NORMAL)
     @Listeners(utilities.ListenerClass.class)
 
 
@@ -16,7 +17,6 @@
 
 
 
-        @Severity(SeverityLevel.NORMAL)
         @Story("Add Product")
         @Description("Verify adding a product to the cart through the product window")
         @Test(description = "Verify adding a product to the cart through the product window")
@@ -37,7 +37,6 @@
             productDetails.backToProducts(); // back to the main product page
         }
 
-        @Severity(SeverityLevel.NORMAL)
         @Story("Add Multiple Products")
         @Description("Verify adding a many products to the cart through the product window")
         @Test(dataProvider = "getProductsName" , description = "Verify adding a many products to the cart through the product window")

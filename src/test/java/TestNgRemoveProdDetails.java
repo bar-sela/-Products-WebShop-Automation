@@ -8,8 +8,8 @@ import pageObjects.ProductPage;
 @Owner("Nachshon Bar-Sela")
 @Epic("Shopping Cart")
 @Feature("Remove Product")
-@Listeners(utilities.ListenerClass.class)
 @Severity(SeverityLevel.NORMAL)
+@Listeners(utilities.ListenerClass.class)
 
 
 public class TestNgRemoveProdDetails extends TestBaseClass {
