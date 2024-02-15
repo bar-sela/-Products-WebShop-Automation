@@ -1,5 +1,6 @@
 import io.qameta.allure.*;
 import org.testng.Assert;
+import org.testng.annotations.BeforeClass;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
@@ -17,13 +18,15 @@ import utilities.PropertyReader;
 
 public class TestNglogIn extends TestBaseClass {
 
+	@BeforeClass
+	@Override
+	public void login() {
+	}
 
 	@Story("Failed Login Scenarios")
 	@Description("Verify Appropriate message for applying only password")
 	@Test(description = "Verify Appropriate message for applying only password")
 	public void tc01_failedTestScenario(){
-		ProductPage productPage = new ProductPage(driver);
-		productPage.logOut();
 		// log in
 		LoginPage loginPage = new LoginPage(driver);
 		loginPage.logIn("", "secret_sauce1");

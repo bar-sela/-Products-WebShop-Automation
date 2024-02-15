@@ -47,14 +47,13 @@ public class TestBaseClass {
         String URL = PropertyReader.readProperty("url");
         driver.get(URL);
 
-        login();
+
 
     }
 
+    @BeforeClass(dependsOnMethods = "setup")
     public void login(){
-
-
-        LoginPage loginPage = new LoginPage(driver);
+        LoginPage loginPage = new LoginPage(this.driver);
         String correctUserName = PropertyReader.readProperty("userName");
         String correctPassword = PropertyReader.readProperty("password");
         loginPage.logIn(correctUserName, correctPassword);

@@ -4,7 +4,7 @@
     <listeners>
         <listener class-name="utilities.ListenerClass"/>
     </listeners>
-    <test thread-count="5" name="src/test/java">
+    <test thread-count="5" parallel="classes" name="src/test/java">
         <parameter name="browser" value="Chrome" />
         <classes>
             <class name="TestNglogIn"/>
