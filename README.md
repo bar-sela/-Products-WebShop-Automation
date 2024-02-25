@@ -20,8 +20,9 @@ Welcome to the Saucedemo Automation Testing Project repository! This project foc
   - Execute comprehensive end-to-end scenarios to ensure seamless system integration.
 
 
-##Technologies Used
+## Technologies Used
 [![My Skills](https://skills.thijs.gg/icons?i=java,testng,maven,allure,selenium,html,css&theme=dark)](https://skills.thijs.gg)
+
 
 ## Project Links
 - **Project Website:** [Visit Saucedemo Automation Project](https://myfinal-project.netlify.app/)
