@@ -1,21 +1,3 @@
-Here's the revised version of your README with changes:
-
----
-
-# Saucedemo Automation Testing Project
-
-Welcome to the Saucedemo Automation Testing Project repository! This project focuses on testing the functionality of the Saucedemo website.
-
-## Introduction
-[Saucedemo](https://www.saucedemo.com/) is an e-commerce website providing a diverse range of products and features for online shoppers. With its user-friendly interface and robust functionalities, Saucedemo offers customers a seamless shopping experience. The website includes features such as product browsing, search capabilities, user account management, shopping cart functionality, and secure checkout processes. Additionally, it may incorporate product reviews, recommendations, and order tracking to enhance the overall shopping experience.
-
-## Features
-- **Login Functionality Testing:**
-  - Validate the login process using various credentials.
-- **Product Management:**Certainly! Here's the updated README with the menu functionality included in the Features section:
-
----
-
 # Saucedemo Automation Testing Project
 
 Welcome to the Saucedemo Automation Testing Project repository! This project focuses on testing the functionality of the Saucedemo website.
