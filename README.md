@@ -34,6 +34,30 @@ Watch a brief video demonstration of the project:
 ![allure2](https://github.com/bar-sela/-Products-WebShop-Automation/assets/93506881/d056da41-2cea-4555-a4ff-905fab4c6a39)
 ![allure3](https://github.com/bar-sela/-Products-WebShop-Automation/assets/93506881/9c032862-4ae2-48ed-860c-4bf9c5568ecb)
 
+## Installation and Usage
+
+Follow these steps to clone the repository, run tests, and view Allure reports:
+
+1. **Clone the Repository:**
+    ```bash
+    git clone https://github.com/bar-sela/-Products-WebShop-Automation.git
+    ```
+
+2. **Build and Run Tests:**
+    ```bash
+    mvn clean test
+    ```
+
+3. **Generate and View Allure Reports:**
+    ```bash
+    mvn allure:serve
+    ```
+
+Once you execute these commands, you should be able to see the test results and generated Allure reports in your browser.
+
+Feel free to explore the project further and contribute as needed!
+
+
 
 ## Project Links
 - **Project Website:** [Visit Saucedemo Automation Project](https://myfinal-project.netlify.app/)
