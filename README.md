@@ -25,9 +25,10 @@ Welcome to the Saucedemo Automation Testing Project repository! This project foc
 
 
 ## Reports 
-![Alt Text](C:\Program Files (x86)\שולחן העבודה\final\assets\img\portfolio\my\allure1)
-![Alt Text](C:\Program Files (x86)\שולחן העבודה\final\assets\img\portfolio\my\allure2)
-![Alt Text](C:\Program Files (x86)\שולחן העבודה\final\assets\img\portfolio\my\allure3)
+
+![allure1](https://github.com/bar-sela/-Products-WebShop-Automation/assets/93506881/ff23bd73-8883-4fad-8370-a4fde423ecfd)
+![allure2](https://github.com/bar-sela/-Products-WebShop-Automation/assets/93506881/d056da41-2cea-4555-a4ff-905fab4c6a39)
+![allure3](https://github.com/bar-sela/-Products-WebShop-Automation/assets/93506881/9c032862-4ae2-48ed-860c-4bf9c5568ecb)
 
 
 ## Project Links
