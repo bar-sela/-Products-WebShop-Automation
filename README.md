@@ -21,7 +21,7 @@ Welcome to the Saucedemo Automation Testing Project repository! This project foc
 
 
 ## Technologies Used
-[![My Skills](https://skills.thijs.gg/icons?i=java,testng,maven,allure,selenium,html,css&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,maven,selenium,html,css&theme=dark)](https://skills.thijs.gg)
 
 
 ## Project Links
