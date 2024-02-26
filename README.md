@@ -24,6 +24,12 @@ Welcome to the Saucedemo Automation Testing Project repository! This project foc
 [![My Skills](https://skills.thijs.gg/icons?i=java,maven,selenium,html,css&theme=dark)](https://skills.thijs.gg)
 
 
+## Reports 
+![Alt Text](C:\Program Files (x86)\שולחן העבודה\final\assets\img\portfolio\my\allure1)
+![Alt Text](C:\Program Files (x86)\שולחן העבודה\final\assets\img\portfolio\my\allure2)
+![Alt Text](C:\Program Files (x86)\שולחן העבודה\final\assets\img\portfolio\my\allure3)
+
+
 ## Project Links
 - **Project Website:** [Visit Saucedemo Automation Project](https://myfinal-project.netlify.app/)
 - **Software Test Description (STD):** [View STD on GitHub](https://github.com/bar-sela/-Products-WebShop-Automation/blob/master/STD.pdf)
@@ -33,4 +39,4 @@ Feel free to explore the project further and contribute to its development!
 
 ---
 
-I hope this meets your requirements! Let me know if you need further assistance.
+
