@@ -2,6 +2,11 @@
 
 Welcome to the Saucedemo Automation Testing Project repository! This project focuses on testing the functionality of the Saucedemo website.
 
+
+## Overview Video
+Click to Watch a video demonstration of the project:
+
+[![Project Demo](https://img.youtube.com/vi/Clil6Gg5jEs/0.jpg)](https://www.youtube.com/watch?v=Clil6Gg5jEs)
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
@@ -31,10 +36,6 @@ Welcome to the Saucedemo Automation Testing Project repository! This project foc
 ## Technologies
 [![My Skills](https://skills.thijs.gg/icons?i=java,maven,selenium,html,css&theme=dark)](https://skills.thijs.gg)
 
-## Overview Video
-Click to Watch a video demonstration of the project:
-
-[![Project Demo](https://img.youtube.com/vi/Clil6Gg5jEs/0.jpg)](https://www.youtube.com/watch?v=Clil6Gg5jEs)
 
 ## Allure Reports 
 ![allure1](https://github.com/bar-sela/-Products-WebShop-Automation/assets/93506881/ff23bd73-8883-4fad-8370-a4fde423ecfd)
